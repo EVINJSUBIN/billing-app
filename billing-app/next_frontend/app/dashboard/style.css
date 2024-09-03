@@ -1,0 +1,26 @@
+
+.hi{
+    padding: 20px;
+    display: flex;
+    background-color: black;
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.hi h1{
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+button{
+    background-color: blue;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+}

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "username": "subin",
+      "password": "adminpassword",
+      "role": "admin"
+    },
+    {
+      "username": "user1",
+      "password": "userpassword",
+      "role": "user"
+    },
+    {
+      "username": "Evin",
+      "password": "password",
+      "role": "admin"
+    },
+    {
+      "username": "evin",
+      "password": "password",
+      "role": "user"
+    }
+  ]
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "youridertech",
+    "company": "ev",
+    "price": "20",
+    "stockNumber": "4"
+  },
+  {
+    "id": 2,
+    "name": "youridertech",
+    "company": "ev",
+    "price": "20",
+    "stockNumber": "10"
+  },
+  {
+    "id": 3,
+    "name": "S22 ultra",
+    "company": "Samsung ",
+    "price": "100000",
+    "stockNumber": "3"
+  },
+  {
+    "id": 4,
+    "name": "S23",
+    "company": "Samsung ",
+    "price": "152000",
+    "stockNumber": "1"
+  },
+  {
+    "id": 5,
+    "name": "S24",
+    "company": "Samsung ",
+    "price": "200000",
+    "stockNumber": "1"
+  },
+  {
+    "id": 6,
+    "name": "S24",
+    "company": "samsung",
+    "price": "20000",
+    "stockNumber": "12"
+  },
+  {
+    "name": "Evin",
+    "price": "2000",
+    "stock": "1"
+  },
+  {
+    "name": "S25",
+    "price": "200009",
+    "stock": "1"
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": "100000",
+    "stock": "1"
+  }
+]
